@@ -1,5 +1,7 @@
 # Hibernate 6 Upgrade Issue with `max_fetch_depth` Parameter
 
+_This has been reported as a bug with the Spring Data JPA Project: https://github.com/spring-projects/spring-data-jpa/issues/3043_
+
 ## Outline
 We use Spring Data JPA with Hibernate. We have recently upgraded to the following versions:
 
